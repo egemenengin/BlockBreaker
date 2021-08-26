@@ -1,4 +1,6 @@
-﻿ 
+//Egemen Engin
+//https://github.com/egemenengin
+
 using UnityEngine;
 
 public class Ball : MonoBehaviour
