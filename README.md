@@ -4,7 +4,7 @@ BlockBreaker Unity Project
 ## :space_invader:**MAIN MENU**
 ![Main Menu](BlockBreakerImages/MainMenu.png "MainMenu")
 
-## :space_invader:**GAMEPLAY IMAGES**
+## :space_invader:**GAMEPLAY**
 ![Gameplay](BlockBreakerImages/LevelBeginning.png "InTheBeginning")
 
 ![Gameplay](BlockBreakerImages/InGame2.png "InGame")
